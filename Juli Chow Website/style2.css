@@ -197,7 +197,7 @@ a {
         padding-top: 100px;
         padding-right: 30px;
         max-width: 1000px;
-        padding-bottom: 100px;
+        padding-bottom: 30px;
       }
       .container9 img {
         flex:auto; /* 可以将容器内的子元素平均分配可用的空间，使它们具有相同的宽度或高度。 */
@@ -205,12 +205,14 @@ a {
         margin: 30px; /* Space between images */
         position:relative;}
 
-.bottom{
-  font-size: 20;
-  color:#262626;
-  align-items: center;
-  padding-top: 10px;
+.copyright{
+  font-size:8px;
+  color:grey;
+  padding-left: 700px;
+  padding-bottom: 20px;
 }
+
+
 
 
 
